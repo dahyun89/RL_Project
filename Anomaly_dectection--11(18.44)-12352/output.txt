@@ -1,0 +1,38 @@
+2022-12-11 18:44:09:	logging to logs\Anomaly_dectection--11(18.44)-12352
+2022-12-11 18:44:09:	Setting device: cpu
+2022-12-11 18:44:09:	Loading Data
+2022-12-11 18:44:12:	Initializing Environment
+2022-12-11 18:44:12:	Initializing Buffer
+2022-12-11 18:44:12:	Initializing Agent
+2022-12-11 18:44:13:	Initializing Trainer
+2022-12-11 18:44:13:	Starting Training
+2022-12-11 18:48:49:	iteration 1/30:	train return 594.67	test return 733.416188	auc_roc 0.451717	auc_pr 0.072493	acc 0.075497	eta: 1 hour  3 minute  48 second  
+2022-12-11 18:53:08:	iteration 2/30:	train return 519.26	test return 818.352125	auc_roc 0.451717	auc_pr 0.072493	acc 0.075497	eta: 1 hour  2 minute  19 second  
+2022-12-11 18:57:47:	iteration 3/30:	train return 639.37	test return 837.327283	auc_roc 0.451717	auc_pr 0.072493	acc 0.075497	eta: 1 hour  1 minute  7 second  
+2022-12-11 19:01:59:	iteration 4/30:	train return 603.84	test return 846.783293	auc_roc 0.451717	auc_pr 0.072493	acc 0.075497	eta: 58 minute  30 second  
+2022-12-11 19:05:58:	iteration 5/30:	train return 636.58	test return 837.845557	auc_roc 0.451767	auc_pr 0.072517	acc 0.075497	eta: 53 minute  44 second  
+2022-12-11 19:10:54:	iteration 6/30:	train return 853.02	test return 646.268773	auc_roc 0.640401	auc_pr 0.166763	acc 0.113907	eta: 55 minute  30 second  
+2022-12-11 19:16:14:	iteration 7/30:	train return 766.83	test return 979.134502	auc_roc 0.731589	auc_pr 0.371090	acc 0.192053	eta: 58 minute  59 second  
+2022-12-11 19:21:20:	iteration 8/30:	train return 754.84	test return 971.623791	auc_roc 0.785829	auc_pr 0.479258	acc 0.255629	eta: 1 hour  4 minute  2 second  
+2022-12-11 19:26:43:	iteration 9/30:	train return 852.62	test return 1018.477267	auc_roc 0.795883	auc_pr 0.500966	acc 0.441060	eta: 1 hour  3 minute  29 second  
+2022-12-11 19:31:57:	iteration 10/30:	train return 936.73	test return 1052.096299	auc_roc 0.800784	auc_pr 0.502601	acc 0.766887	eta: 1 hour  1 minute  49 second  
+2022-12-11 19:36:54:	iteration 11/30:	train return 1004.76	test return 1274.155864	auc_roc 0.806012	auc_pr 0.497019	acc 0.913907	eta: 58 minute  21 second  
+2022-12-11 19:42:28:	iteration 12/30:	train return 932.76	test return 1197.277747	auc_roc 0.818253	auc_pr 0.495261	acc 0.915232	eta: 55 minute  32 second  
+2022-12-11 19:47:53:	iteration 13/30:	train return 948.60	test return 1277.372795	auc_roc 0.825793	auc_pr 0.503609	acc 0.921854	eta: 53 minute  40 second  
+2022-12-11 19:53:35:	iteration 14/30:	train return 1002.16	test return 1276.173053	auc_roc 0.828357	auc_pr 0.494748	acc 0.923179	eta: 51 minute  9 second  
+2022-12-11 19:59:06:	iteration 15/30:	train return 1022.37	test return 1392.654718	auc_roc 0.835042	auc_pr 0.504688	acc 0.929801	eta: 48 minute  45 second  
+2022-12-11 20:04:13:	iteration 16/30:	train return 1085.94	test return 1339.453358	auc_roc 0.830820	auc_pr 0.480972	acc 0.927152	eta: 43 minute  59 second  
+2022-12-11 20:09:21:	iteration 17/30:	train return 1048.73	test return 1350.921232	auc_roc 0.837078	auc_pr 0.491072	acc 0.925828	eta: 40 minute  22 second  
+2022-12-11 20:14:15:	iteration 18/30:	train return 1064.49	test return 1498.615721	auc_roc 0.842055	auc_pr 0.485126	acc 0.931126	eta: 35 minute  29 second  
+2022-12-11 20:19:33:	iteration 19/30:	train return 1107.51	test return 1474.520647	auc_roc 0.843714	auc_pr 0.491320	acc 0.931126	eta: 32 minute  31 second  
+2022-12-11 20:24:28:	iteration 20/30:	train return 1072.21	test return 1586.771288	auc_roc 0.842558	auc_pr 0.474240	acc 0.936424	eta: 29 minute  16 second  
+2022-12-11 20:29:40:	iteration 21/30:	train return 1168.79	test return 1489.953551	auc_roc 0.834439	auc_pr 0.454100	acc 0.931126	eta: 26 minute  46 second  
+2022-12-11 20:34:35:	iteration 22/30:	train return 1040.15	test return 1477.194682	auc_roc 0.841552	auc_pr 0.458299	acc 0.928477	eta: 23 minute  21 second  
+2022-12-11 20:39:28:	iteration 23/30:	train return 1089.24	test return 1593.868010	auc_roc 0.840622	auc_pr 0.466957	acc 0.940397	eta: 20 minute  19 second  
+2022-12-11 20:44:24:	iteration 24/30:	train return 1128.90	test return 1479.975447	auc_roc 0.838838	auc_pr 0.459471	acc 0.932450	eta: 16 minute  58 second  
+2022-12-11 20:49:19:	iteration 25/30:	train return 1159.27	test return 1574.198310	auc_roc 0.846831	auc_pr 0.466739	acc 0.943046	eta: 14 minute  1 second  
+2022-12-11 20:54:18:	iteration 26/30:	train return 1202.88	test return 1572.340177	auc_roc 0.844443	auc_pr 0.456525	acc 0.940397	eta: 11 minute  20 second  
+2022-12-11 20:59:12:	iteration 27/30:	train return 1152.38	test return 1626.838505	auc_roc 0.841452	auc_pr 0.457366	acc 0.944371	eta: 8 minute  26 second  
+2022-12-11 21:04:11:	iteration 28/30:	train return 1138.30	test return 1608.381769	auc_roc 0.855678	auc_pr 0.470789	acc 0.944371	eta: 5 minute  42 second  
+2022-12-11 21:09:01:	iteration 29/30:	train return 1159.81	test return 1660.747040	auc_roc 0.850400	auc_pr 0.467245	acc 0.945695	eta: 2 minute  48 second  
+2022-12-11 21:14:02:	iteration 30/30:	train return 1096.13	test return 1699.607177	auc_roc 0.855703	auc_pr 0.462618	acc 0.944371	eta: 
