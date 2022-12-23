@@ -22,3 +22,4 @@
 # Experiment
 * To change hyperparameter : config.py  
 * To run: python main.py
+* output : 학습된 모델 확인
