@@ -2,9 +2,9 @@
 
 #### "Toward Deep Supervised Anomaly Detection: Reinforcement Learning from Partially Labeled Anomaly Data” 논문의 DPLAN 강화학습 이상감지 모델을 기반으로 에 적용 및 구현
 
-### DPLAN 모델 프레임워크
-![image](https://user-images.githubusercontent.com/121276658/209277044-16bb3bbf-7e46-4483-9d2d-fda2befbbd2d.png)
 
+### [DPLAN 모델 프레임워크]
+![image](https://user-images.githubusercontent.com/121276658/209277044-16bb3bbf-7e46-4483-9d2d-fda2befbbd2d.png)
 * ### Anomaly detection Agent   
   * 이상감지를 수행하면서 라벨링이 되어있는 소수의 비정상 데이터를 통해 이상치 탐지의 정확도를 향상  
   * 라벨링이 되어 있지 않는 비정상 데이터도 판별하고 감지할 수 있도록 제한 없이 진행  
