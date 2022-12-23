@@ -1,6 +1,6 @@
 #  DPLAN
 
-#### "Toward Deep Supervised Anomaly Detection: Reinforcement Learning from Partially Labeled Anomaly Data” 논문의 DPLAN 강화학습 이상감지 모델을 구현하여 ADFA 데이터에 적용
+'Toward Deep Supervised Anomaly Detection: Reinforcement Learning from Partially Labeled Anomaly Data' 논문의 DPLAN 강화학습 이상감지 모델을 구현하여 ADFA 데이터에 적용
 
 # Environment
 * scikit-learn==0.24.2
