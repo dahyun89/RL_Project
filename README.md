@@ -13,5 +13,5 @@
 * ### Anomaly-biased simulation Environment   
   * Agent가 새로운 형태의 이상치를 감지할 수 있도록 라벨링이 되지 않은 데이터 exploration을 지원
  
-* ### Combined ## Reward ### function   
+* ### Combined Reward function   
   * 라벨링이 되거나 되지않은 이상치로부터 supervisory 정보를 사용해서 exploration-exploitation의 균형을 달성
