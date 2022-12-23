@@ -1,4 +1,4 @@
-#  DPLAN : Deep Reinforcement Learning from Partially Labeled Anomaly Data
+#  DPLAN
 
 #### "Toward Deep Supervised Anomaly Detection: Reinforcement Learning from Partially Labeled Anomaly Data” 논문의 DPLAN 강화학습 이상감지 모델을 기반으로 네트워크 이상탐지 데이터셋에 적용 및 구현
 
@@ -24,3 +24,7 @@
  
 * ### Combined Reward function   
   * 라벨링이 되거나 되지않은 이상치로부터 supervisory 정보를 사용해서 exploration-exploitation의 균형을 달성
+
+* Experiment
+To change hyperparameter : config.py  
+To run: python main.py
