@@ -13,7 +13,7 @@
   * 리눅스 혹은 윈도우 호스트에서 수집된 데이터셋
   * 호스트 기반 침입탐지시스템을 평가하기 위해 공개된 데이터
 
-### [DPLAN 모델 프레임워크]
+# DPLAN 모델 프레임워크
 ![image](https://user-images.githubusercontent.com/121276658/209277044-16bb3bbf-7e46-4483-9d2d-fda2befbbd2d.png)
 * ### Anomaly detection Agent   
   * 이상감지를 수행하면서 라벨링이 되어있는 소수의 비정상 데이터를 통해 이상치 탐지의 정확도를 향상  
