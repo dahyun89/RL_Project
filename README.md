@@ -1,6 +1,6 @@
 #  DPLAN : Deep Reinforcement Learning from Partially Labeled Anomaly Data
 
-#### 2021년 Guansong Pang의 "Toward Deep Supervised Anomaly Detection: Reinforcement Learning from Partially Labeled Anomaly Data” 논문의 DPLAN 강화학습 이상감지 모델을 기반으로 네트워크 이상탐지 데이터에 적용 및 구현
+#### "Toward Deep Supervised Anomaly Detection: Reinforcement Learning from Partially Labeled Anomaly Data” 논문의 DPLAN 강화학습 이상감지 모델을 기반으로 에 적용 및 구현
 
 ### DPLAN 모델 프레임워크
 ![image](https://user-images.githubusercontent.com/121276658/209277044-16bb3bbf-7e46-4483-9d2d-fda2befbbd2d.png)
@@ -13,5 +13,5 @@
 * ### Anomaly-biased simulation Environment   
   * Agent가 새로운 형태의 이상치를 감지할 수 있도록 라벨링이 되지 않은 데이터 exploration을 지원
  
-* ### Combined Reward function   
+* ### Combined ## Reward ### function   
   * 라벨링이 되거나 되지않은 이상치로부터 supervisory 정보를 사용해서 exploration-exploitation의 균형을 달성
